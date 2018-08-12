@@ -1,0 +1,35 @@
+img.logo {
+	margin-top: 150px; /* üstten boşluk bırakır. */
+	width: 272px; /* genişliği ayarlamak için */
+	height: 92px; /* yüksekliği ayarlamak */
+	margin-bottom: 20px; /* aşağıya dıştan boşluk */
+}
+
+input#kutucuk {
+	width: 500px; /* genişlik */
+	height: 30px; /* yükseklik */
+	padding-left: 15px; /* içten boşluk */
+	font-size: 15px; /* yazı büyüklüğü */
+	color: #505050; /* yazı rengi */
+	border-radius: 8px; /* köşeleri oval yapar */
+	margin-bottom: 15px; /* aşağıya dışarıdan boşluk */
+	border: 1px solid #ccc; /* kenarlık */
+}
+
+button.btn {
+	height: 30px; /* yükseklik */
+	border: 1px solid #ccc; /* kenarlık */
+	/* border: none; kenarlığı kaldırır. */
+}
+
+#alan {
+	background-color: #ccc; /* arkaplan rengi */
+	text-align: center; /* yazının pozisyonu */
+	padding-top: 10px; /* yukarı içten boşluk */
+	padding-bottom: 10px; /* aşağı içten boşluk */
+	margin-top: 387px;
+}
+
+body {
+	margin: 0px; /* margin: dışarıya boşluk */
+}
